@@ -2,28 +2,36 @@
 
 <a href="https://github.com/github-developer/javascript-action/actions"><img alt="javscript-action status" src="https://github.com/github-developer/javascript-action/actions/workflows/test.yml/badge.svg"></a>
 
-## Development
-
-#### 1. Update your action metadata in `action.yml`
-
-[`action.yml`](action.yml) defines the inputs and output for your action.
-
-Update the action.yml with your name, description, inputs and outputs for your action.
-
-See the [documentation](https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions).
-
-#### 2. Write your action code in `lib`
 
 
-#### 3. Test your action in `tests`
+# GitHub action to generate a Nutrition label from SBOM
 
-[Jest](https://jestjs.io/) and [Nock](https://github.com/nock/nock) are included as suggestions for test and mocking frameworks.
+This GitHub action will create a a valid Software Bill-of-Materials (SBOM) containing an aggregate of all project dependencies and then its Nutrtion label.
 
-A sample [Unit Test workflow](.github/workflows/test.yml) is provided which runs on every pull request and push to the `main` branch.
 
-#### 4. Automate releases with GitHub Actions
+## Inputs
 
-The entrypoint to your action is defined by `runs.using` in `action.yml`.
+### `path`
+
+The path to a Node.js project, default is "./"
+
+Be sure to quote paths with spaces.
+
+### `output`
+
+Output , default is web link
+
+## Example simple usage
+
+
+uses: Crpyptosoft/@master
+
+## Example step that defines the output and path (both are optional)
+
+
+
+## Complete Action with npm build and SBOM creation
+
 
 
 ## License
