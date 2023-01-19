@@ -1,6 +1,6 @@
 # Cryptosoft-Nutrition-Label 🚀
 
-<a href="https://github.com/github-developer/javascript-action/actions"><img alt="javscript-action status" src="https://github.com/github-developer/javascript-action/actions/workflows/test.yml/badge.svg"></a>
+[![Website](https://img.shields.io/badge/https://-sbom.cryptosoft.com)](https://sbom.cryptosoft.com)
 
 
 
