@@ -1,5 +1,4 @@
 # Cryptosoft-Nutrition-Label
-# Create a JavaScript Action
 > An opinionated alternative template to [`actions/javascript-action`](https://github.com/actions/javascript-action) to bootstrap the creation of a JavaScript action. 🚀
 
 <a href="https://github.com/github-developer/javascript-action/actions"><img alt="javscript-action status" src="https://github.com/github-developer/javascript-action/actions/workflows/test.yml/badge.svg"></a>
