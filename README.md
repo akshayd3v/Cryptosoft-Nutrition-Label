@@ -24,13 +24,13 @@ Output , default is web link
 ## Example simple usage
 
 
-uses: Crpyptosoft/@master
+uses: Cryptosoft
 
 ## Example step that defines the output and path (both are optional)
 
 
 
-## Complete Action with npm build and SBOM creation
+
 
 
 
