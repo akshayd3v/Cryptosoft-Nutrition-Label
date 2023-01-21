@@ -21,6 +21,9 @@ Be sure to quote paths with spaces.
 
 Output , default is web link
 
+## Usage
+uses:akshayd3v/
+
 ## License
 
 [MIT](LICENSE.md)
