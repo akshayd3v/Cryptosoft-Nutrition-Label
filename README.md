@@ -21,19 +21,6 @@ Be sure to quote paths with spaces.
 
 Output , default is web link
 
-## Example simple usage
-
-
-uses: Cryptosoft
-
-## Example step that defines the output and path (both are optional)
-
-
-
-
-
-
-
 ## License
 
 [MIT](LICENSE.md)
