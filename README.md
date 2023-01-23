@@ -22,7 +22,7 @@ Be sure to quote paths with spaces.
 Output , default is web link
 
 ## Usage
-uses:akshayd3v/
+uses:akshayd3v/Cryptosoft-Nutrition-Label
 
 ## License
 
