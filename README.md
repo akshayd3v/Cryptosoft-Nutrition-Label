@@ -30,4 +30,4 @@ uses:akshayd3v/
 
 ## Contributing
 
-Pull requests are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for more.
+suggestions are welcome!
